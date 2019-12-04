@@ -1,5 +1,5 @@
 # Some of My Recent Outdoor Activities
-- [Fishing](https://www.funlake.com/Fishing?category=Marine&type=Recreation&fieldQueries=marine-attribute|FishGuide)
+- [Fishing](https://www.funlake.com/Fishing?category=Marine&type=Recreation&fieldQueries=marine-attributeFishGuide)
 - [Hiking](https://mostateparks.com/park/ha-ha-tonka-state-park)
 - [Sports](https://www.mizzourec.com/facilities/outdoor/stankowski/)
 
