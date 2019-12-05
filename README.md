@@ -3,7 +3,7 @@ I love to hike around national parks and mostly **fishing** when it comes to my 
 
 ___
 # Some of My *Recent* Outdoor Activities
-- [Fishing](https://www.funlake.com/Fishing?category=Marine&type=Recreation&fieldQueries=marine-attribute|FishGuide)
+- [Fishing](https://mostateparks.com/activity/fishing)
 - [Hiking](https://mostateparks.com/park/ha-ha-tonka-state-park)
 - [Sports](https://www.mizzourec.com/facilities/outdoor/stankowski/)
 
